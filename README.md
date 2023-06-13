@@ -30,10 +30,10 @@ Do đó, công nghệ vùng chứa cung cấp tất cả các chức năng và l
 
  một số bước cơ bản có thể giúp bạn bắt đầu với Docker:
 
-1 Cài đặt Docker trên máy tính của bạn.
-2 Tìm hiểu về các khái niệm cơ bản của Docker như image, container và registry.
-3 Tìm hiểu cách sử dụng Dockerfile để xây dựng image.
-4 Tìm hiểu cách sử dụng docker-compose để quản lý các container.
+1 Cài đặt Docker trên máy tính của bạn.\
+2 Tìm hiểu về các khái niệm cơ bản của Docker như image, container và registry.\
+3 Tìm hiểu cách sử dụng Dockerfile để xây dựng image.\
+4 Tìm hiểu cách sử dụng docker-compose để quản lý các container.\
 5 Thực hành bằng cách tạo các image và container đơn giản.
 
 Bạn có thể tham khảo lloj trình tìm hiểu docker [tại đây](https://roadmap.sh/docker)
