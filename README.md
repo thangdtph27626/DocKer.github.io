@@ -36,4 +36,4 @@ Do đó, công nghệ vùng chứa cung cấp tất cả các chức năng và l
 4 Tìm hiểu cách sử dụng docker-compose để quản lý các container.\
 5 Thực hành bằng cách tạo các image và container đơn giản.
 
-Bạn có thể tham khảo lloj trình tìm hiểu docker [tại đây](https://roadmap.sh/docker)
+Bạn có thể tham khảo lộ trình tìm hiểu docker [tại đây](https://roadmap.sh/docker)
